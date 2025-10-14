@@ -10,7 +10,7 @@
   "license": "mit",
   "dependencies": {},
   "devDependencies": {
-    "ava": "^0.16.0",
+    "ava": "^6.4.1",
     "nyc": "^8.1.0"
   },
   "nyc": {
